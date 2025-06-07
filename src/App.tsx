@@ -152,7 +152,7 @@ function App() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="bg-cyan-500 hover:bg-cyan-600 text-white px-8 py-4 rounded-lg font-semibold transition-all hover:scale-105 flex items-center justify-center">
-                Get Security Assessment <ChevronRight className="ml-2 h-5 w-5" />
+                Get Security Assessment of your Company <ChevronRight className="ml-2 h-5 w-5" />
               </button>
             </div>
           </div>
