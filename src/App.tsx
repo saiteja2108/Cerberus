@@ -42,48 +42,48 @@ function App() {
 
   const team = [
     {
-      name: "Alex Thompson",
+      name: "Anurag Pandey",
       role: "Chief Security Officer",
       expertise: "Penetration Testing & Security Architecture",
-      image: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400",
-      linkedin: "https://linkedin.com/in/alexthompson",
-      github: "https://github.com/alexthompson"
+      image: "https://media.licdn.com/dms/image/v2/D4D03AQH6_yJ1YXTxrw/profile-displayphoto-shrink_200_200/B4DZPdwMcJHcAc-/0/1734592219918?e=1754524800&v=beta&t=Oj_dzzBADKFxlbLHI98l78Cjizfy0jkMpGOYSajzeUM",
+      linkedin: "https://linkedin.com/in/anurag-pandey7",
+      github: "https://github.com/Anurag7645"
     },
     {
-      name: "Sarah Chen",
+      name: "Raunak Raj",
       role: "Cyber Forensics Specialist",
       expertise: "Digital Forensics & Incident Response",
-      image: "https://images.pexels.com/photos/3183153/pexels-photo-3183153.jpeg?auto=compress&cs=tinysrgb&w=400",
-      linkedin: "https://linkedin.com/in/sarahchen",
-      github: "https://github.com/sarahchen"
+      image: "https://media.licdn.com/dms/image/v2/C4D03AQGNpCLGl4X43A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1663049927134?e=1754524800&v=beta&t=oj1-GEn3thxwLDL51iA96CwaDTEJ6eklXoLPfZKtzdE",
+      linkedin: "https://linkedin.com/in/raunak40",
+      github: "https://github.com/"
     },
     {
-      name: "Michael Rodriguez",
+      name: "A V S Sai Teja",
       role: "Compliance Director",
       expertise: "Regulatory Compliance & Risk Management",
-      image: "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=400",
-      linkedin: "https://linkedin.com/in/michaelrodriguez",
-      github: "https://github.com/michaelrodriguez"
+      image: "https://media.licdn.com/dms/image/v2/D5603AQH-bzT7lZPYmw/profile-displayphoto-shrink_200_200/B56ZOzVRqEG8Ac-/0/1733880520350?e=1754524800&v=beta&t=KV0012CFdyjRaXsJ3VGmR1Q7rGe6xXy0xfI4c8PfANc",
+      linkedin: "https://linkedin.com/in/a-v-s-sai-teja-69596b189",
+      github: "https://github.com/saiteja2108"
     }
   ];
 
   const testimonials = [
     {
-      name: "David Martinez",
+      name: "Abhay Prasad",
       company: "TechCorp Industries",
       role: "CTO",
       content: "Cerberus transformed our security posture completely. Their comprehensive approach and attention to detail exceeded our expectations. The team's expertise in both compliance and practical security implementation is outstanding.",
       rating: 5
     },
     {
-      name: "Emma Wilson",
+      name: "Adtya Singh",
       company: "Financial Solutions Inc.",
       role: "CISO",
       content: "Working with Cerberus was a game-changer for our organization. Their forensics investigation helped us understand and mitigate a critical security incident. Professional, thorough, and highly recommended.",
       rating: 5
     },
     {
-      name: "James Chen",
+      name: "Neha Sharma",
       company: "Healthcare Systems LLC",
       role: "IT Director",
       content: "The managed security solutions provided by Cerberus have given us peace of mind. Their proactive monitoring and rapid response capabilities are exactly what we needed for our critical healthcare infrastructure.",
@@ -153,9 +153,6 @@ function App() {
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="bg-cyan-500 hover:bg-cyan-600 text-white px-8 py-4 rounded-lg font-semibold transition-all hover:scale-105 flex items-center justify-center">
                 Get Security Assessment <ChevronRight className="ml-2 h-5 w-5" />
-              </button>
-              <button className="border border-cyan-400 text-cyan-400 hover:bg-cyan-400 hover:text-slate-900 px-8 py-4 rounded-lg font-semibold transition-all hover:scale-105">
-                View Our Services
               </button>
             </div>
           </div>
