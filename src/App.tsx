@@ -125,7 +125,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
-                <img src="logo/default.png" alt="Cerberus Logo" className="h-11 mb-1" />
+                <img src="default.png" alt="Cerberus Logo" className="h-11 mb-1" />
               <span className="text-xl font-bold text-white">Cerberus</span>
             </div>
             <div className="hidden md:flex space-x-8">
@@ -372,7 +372,7 @@ function App() {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div>
               <div className="flex flex-col items-center mb-4">
-                <img src="logo/default.png" alt="Cerberus Logo" className="h-24 mb-1" />
+                <img src="default.png" alt="Cerberus Logo" className="h-24 mb-1" />
                 <span className="text-xl font-semibold text-white">Cerberus</span>
               </div>
 
